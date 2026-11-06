@@ -1,1 +1,11 @@
-hi
+<img src="https://github.com/user-attachments/assets/85aa5a7f-8bae-4d74-9351-56027a5e9c6d" />
+
+hi, it's me
+
+lorem ipsum or whatever
+
+things are to be added here, but idk what it is yet
+
+goodbye
+
+<img src="https://github.com/user-attachments/assets/58a30f1d-0caf-4e0a-88db-7306d41e4c89" />
