@@ -8,4 +8,4 @@ things are to be added here, but idk what it is yet
 
 goodbye
 
-<img src="https://github.com/user-attachments/assets/58a30f1d-0caf-4e0a-88db-7306d41e4c89" />
+<img src="https://github.com/user-attachments/assets/0fb463e2-ef25-410a-bdc3-338d13b3dfa2" />
